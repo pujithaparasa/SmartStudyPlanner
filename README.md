@@ -1,5 +1,5 @@
 
-Smart Study Planner
+**Smart Study Planner**
 
 Smart Study Planner is a web-based productivity application designed to help students efficiently organize, track, and manage their academic tasks. It provides a clean, interactive interface to boost productivity and improve time management.
 
